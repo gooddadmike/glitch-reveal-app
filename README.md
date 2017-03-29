@@ -2,7 +2,9 @@ Reveal.js Glitch Template
 =========================
 
 Reveal.js is easy enough to host locally and setup but why bother?
-When you can just remix this template and carry-on. *Note* don't edit this template. Remix (copy) it.
+When you can just remix this template and carry-on. 
+
+**Note** don't edit this template. Remix (copy) it.
 
 ## Changes From The Original Demo
 [Source repo](https://github.com/hakimel/reveal.js)
