@@ -1,8 +1,14 @@
 Reveal.js Glitch Template
 =========================
 
-Reveal.js is easy enough to host locally and setup but why bother?
-When you can just remix this template and carry-on. 
+Reveal.js is easy enough to setup and to host locally. 
+With glitch.com you can skip those steps.
+
+Instructions: 
+
+ 1. Vist this template on [glitch.com(https://glitch.com/edit/#!/revealjs-template).
+ 1. Click remix.
+ 1. Profit!
 
 **Note** don't edit this template. Remix (copy) it.
 
